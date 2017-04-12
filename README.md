@@ -1511,7 +1511,7 @@ ES5 的编码规范请查看[版本一](https://github.com/sivan/javascript-styl
 <a name="semicolons"></a>
 ## 分号
 
-  - [20.1](#20.1) <a name='20.1'></a> **使用分号**
+  - [20.1](#20.1) <a name='20.1'></a> **使用分号; 如果使用 tsc 编译器可省略分号**
 
     ```javascript
     // bad
