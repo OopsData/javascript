@@ -1429,7 +1429,7 @@ ES5 的编码规范请查看[版本一](https://github.com/sivan/javascript-styl
 <a name="commas"></a>
 ## 逗号
 
-  - [19.1](#19.1) <a name='19.1'></a> 行首逗号：**不需要**。
+  - [19.1](#19.1) <a name='19.1'></a> 行首逗号 [npm style](https://docs.npmjs.com/misc/coding-style#comma-first)。
 
     ```javascript
     // See comments below.
